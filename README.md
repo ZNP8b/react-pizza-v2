@@ -1,5 +1,5 @@
 # Незаконченная версия Front End React Pizza
-Неполный функционал
+Неполный функционал https://znp8b.github.io/react-pizza-v2/
 
 # Getting Started with Create React App
 
