@@ -20,7 +20,7 @@ function App() {
         <div className='content'>
           <Routes>
             <Route
-              path='/'
+              path='/react-pizza-v2/'
               element={<Home />}
             />
             <Route
